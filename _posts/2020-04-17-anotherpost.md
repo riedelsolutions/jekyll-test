@@ -2,7 +2,7 @@
 layout: post
 author: keyser
 title: second post
-categories: [music, tech]
+tags: [music, tech, blog]
 ---
 
 # Welcome. The original title is 2020-04-17-anotherpost but the page should show Second Post!

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: keyser
-categories: [music, tech]
+tags: [music, tech, notes,fintech,blog]
 ---
 
 # Welcome

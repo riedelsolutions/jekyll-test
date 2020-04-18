@@ -1,0 +1,5 @@
+<h2>#{{ include.tagName }}</h2>
+
+{% for post in site.tags[include.tagName] %}
+<h3>{{ post.title }}</h3>
+{% endfor %}

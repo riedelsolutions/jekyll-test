@@ -3,10 +3,10 @@
 Gem::Specification.new do |spec|
   spec.name          = "my-theme"
   spec.version       = "0.1.0"
-  spec.authors       = ["Cam"]
+  spec.authors       = ["Cam/Keyser"]
   spec.email         = ["riedelgcamila@gmail.com"]
 
-  spec.summary       = "Theme for whereskeyser.com"
+  spec.summary       = "Root is a minimal, tag-based theme following modern design trends."
   spec.homepage      = "https://solutionsbyriedel.com"
   spec.license       = "MIT"
 

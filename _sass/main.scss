@@ -44,7 +44,14 @@ a:active{
     color: darkgrey
 }
 
+.btn-link{
+    border-bottom: none !important;
+}
 
+button:focus{
+    outline-color: white;
+    -moz-outline-radius: 3px;
+}
 
 .current{
     color: darkgrey;
@@ -107,4 +114,26 @@ nav{
     &:hover{
         background-color: #f5f5f5;
     } 
+}
+.github{
+	position: relative;
+	bottom: 4px;
+	margin-right: 4px;
+	max-width: 28px;
+}
+
+.gmail{
+	max-width: 3%;
+	margin-right: 3px;
+}
+
+.telegram{
+	max-width: 3%;
+}
+
+footer{
+	text-align: center;
+	clear: both;
+	margin-top: 70px;
+	margin-bottom: 30px;
 }

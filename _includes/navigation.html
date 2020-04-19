@@ -11,7 +11,7 @@
   <div class ="tag-container">
     {% for tag in site.tags %}
       
-      <button class ="tag">{{tag[0]}}</button>
+      <a href = '/{{tag[0]}}.html' class = 'btn-link'><button class ="tag">{{tag[0]}}</button></a>
     {% endfor %}
   </div>
 </div>

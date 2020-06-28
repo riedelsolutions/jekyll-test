@@ -48,7 +48,7 @@ First, trending isn&#8217;t even the initial tab. &#8220;For you&#8221;, catered
 Not only that, &#8220;for you&#8221; isn&#8217;t even catered properly. Using myself as the example: I consume Twitter and all social media exclusively in English. Google understands this, and so it gives me news in English, results in English, everything in my language of preference, even knowing I speak other ones. Twitter, on the other hand, doesn&#8217;t seem to get this, even if I lie and claim to be monolingual: 
 
 <div class="wp-block-image">
-  <figure class="alignleft size-large is-resized"><img src="https://whereskeyser.com/wp-content/uploads/2020/01/12-576x1024.jpg" alt="" class="wp-image-304" width="249" height="442" srcset="https://whereskeyser.com/wp-content/uploads/2020/01/12-576x1024.jpg 576w, https://whereskeyser.com/wp-content/uploads/2020/01/12-169x300.jpg 169w, https://whereskeyser.com/wp-content/uploads/2020/01/12.jpg 720w" sizes="(max-width: 249px) 100vw, 249px" /></figure>
+  <figure class="alignleft size-large is-resized"><img src="https://whereskeyser.com/wp-content/uploads/2020/01/12-576x1024.jpg" alt="" class="wp-image-304" width="249" height="442" srcset="https://whereskeyser.com/wp-content/uploads/2020/01/12-576x1024.jpg 576w, https://whereskeyser.com/wp-content/uploads/2020/01/12-169x300.jpg 169w, https://whereskeyser.com/wp-content/uploads/2020/01/12.jpg 720w" sizes="(max-width: 249px) 100vw, 249px" /> 
 </div><figure class="wp-block-image size-large is-resized">
 
 <img src="https://whereskeyser.com/wp-content/uploads/2020/01/11-576x1024.jpg" alt="" class="wp-image-305" width="246" height="437" srcset="https://whereskeyser.com/wp-content/uploads/2020/01/11-576x1024.jpg 576w, https://whereskeyser.com/wp-content/uploads/2020/01/11-169x300.jpg 169w, https://whereskeyser.com/wp-content/uploads/2020/01/11.jpg 720w" sizes="(max-width: 246px) 100vw, 246px" /> </figure> 
@@ -131,7 +131,7 @@ So as not to bore you with an article longer than this is already shaping up to 
 
 Analytics tools seem to be convoluted and unintuitive everywhere, but Youtube excels at making it more difficult for the user to interact with and visualize the data.
 
-## Instagram — Could be worse? 
+#### Instagram — Could be worse? 
 
 Surprisingly enough, Instagram is the least offending interface out of all listed. Granted, there are things to be fixed: the explore page takes way too much fine-tuning to provide anything mildly related to users&#8217; interests, the timeline isn&#8217;t cronological, ads seem to be highly innacurate for a high number of users, and the obvious added package of &#8220;facebook bad&#8221; —the data collection is insane and unethical.
 
@@ -139,7 +139,7 @@ IGTV seems to be the most flawed feature—just try to pause a video or check co
 
 I was going to take my chance and rip facebook&#8217;s bloated UI bit by bit here too, but a company with such little respect for users does not deserve the time or the place, nor the recommendations for improvements.
 
-## Discord — The leviathan of user experience 
+#### Discord — The leviathan of user experience 
 
 Yes, the heading is dramatic. So is Discord&#8217;s over-the-top, unrelatable UX Copy. Their aim is to target the gaming community, however no one, even within the community, seems to think it&#8217;s effective. As part of discord&#8217;s demographic, I hear nothing but complaints from my friends and acquaintances when they open the app and see &#8220;abnormalizing some of the matrices&#8221;, when they update the app and see an update log talking to them like a dad trying to cram relatable references to their angsty teenage kid, or whenever they try to deal with its confusing interface.
 
@@ -177,7 +177,7 @@ Finally, its branding. Discord is aimed at gaming only still to this day, when i
 
 Let&#8217;s hope they wake up and take advantage of it before the new big name comes along.
 
-# In conclusion: MAKE IT SIMPLE pls
+# In conclusion: MAKE IT SIMPLE please
 
 Ok, that heading might not be the most professional but, PLEASE! It&#8217;s not that complicated to give your design time to set and be tested. Listen to your users yelling in every social media possible and implement changes that actually matter to the user experience. We already have a billion alternatives for a billion features in the form of a billion apps, we just want an easier to use platform.
 

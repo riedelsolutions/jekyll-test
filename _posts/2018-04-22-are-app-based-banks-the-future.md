@@ -1,30 +1,11 @@
 ---
-id: 69
 title: Are App-Based Banks The Future?
 date: 2018-04-22T17:49:55+00:00
-author: whereskeyser
+author: keyser
 layout: post
-guid: http://whereskeyser.com/?p=69
 permalink: /are-app-based-banks-the-future/
-image: /wp-content/uploads/2018/04/abb-post-header.png
-categories:
-  - All Articles
-  - Tech
-tags:
-  - app-based banks
-  - budget
-  - budgeting
-  - fintech
-  - millennials
-  - money
-  - monzo
-  - online banks
-  - open banking
-  - saving money
-  - savings
-  - traditional banking
-  - traditional banks
-  - ualá
+thumbnail: /wp-content/uploads/2018/04/abb-post-header.png
+tags: [music, design, tech, fintech, blog, minimalism]
 ---
 One of the latest advances in the world of Fintech is the creation of app-based banks. Everybody has heard of at least one of them- They got featured in dozens of articles this past year, ads for them are starting to be more and more common, and/or we all have that one friend who likes to keep up with new concepts (or we ourselves are that friend). Yet app-based banks are not being held at the same level as traditional banks.
 

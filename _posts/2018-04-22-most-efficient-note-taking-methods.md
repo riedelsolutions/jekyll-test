@@ -2,13 +2,11 @@
 id: 51
 title: Most Efficient Note-Taking Methods
 date: 2018-04-22T17:33:25+00:00
-author: whereskeyser
+author: keyser
 layout: post
-guid: http://whereskeyser.com/?p=51
 permalink: /most-efficient-note-taking-methods/
-image: /wp-content/uploads/2018/04/digital-mediums.png
-categories:
-  - All Articles
+thumbnail: /wp-content/uploads/2018/04/digital-mediums.png
+tags: [blog, tech, minimalism]
 ---
 We are all used to seeing artsy planners and bullet journals on the internet, whether it be on studyblrs, instagram or pinterest. And while it is entertaining to scroll through those pictures, and even creating your own, as soon as we have something important or urgent to jot down, we remember why we are not used to seeing those types of notes in real life: they are not, realistically, useful methods. We tend to need to find the quickest, most practical way to jot down important information. Said way is different for everybody, depending on your needs.
 
@@ -20,11 +18,11 @@ Today I am showing you some of the simplest and most efficient ways to take note
 
 Firstly, I am going to divide them in two categories, depending on the mediums you can use: digital and physical. I am going to start with the latter.
 
--DIGITAL NOTES
+## DIGITAL NOTES
 
 <img class="alignnone size-medium wp-image-52" src="http://whereskeyser.com/wp-content/uploads/2018/04/digital-mediums-300x201.png" alt="" width="300" height="201" srcset="https://whereskeyser.com/wp-content/uploads/2018/04/digital-mediums-300x201.png 300w, https://whereskeyser.com/wp-content/uploads/2018/04/digital-mediums-340x227.png 340w, https://whereskeyser.com/wp-content/uploads/2018/04/digital-mediums-500x334.png 500w, https://whereskeyser.com/wp-content/uploads/2018/04/digital-mediums.png 580w" sizes="(max-width: 300px) 100vw, 300px" /> 
 
-Digital note-taking is useful because:
+**Digital note-taking is useful because:** 
 
 &nbsp;
 
@@ -32,7 +30,7 @@ Digital note-taking is useful because:
   * You don&#8217;t have to use paper or pens (which is good for both enviromental and spatial reasons)
   * You will most likely never run out of space, so, storage. (You have your computer/phone/tablet HDD/SSD, plus OneDrive, Google Drive, Dropbox, etc.)
 
-Digital note-taking is useful for:
+**Digital note-taking is useful for:**
 
 &nbsp;
 
@@ -41,9 +39,9 @@ Digital note-taking is useful for:
 
 &nbsp;
 
-OPTIONS
+### OPTIONS
 
-  1. Notepad
+  1. ##### Notepad
 
 <img class="alignnone size-full wp-image-181" src="https://whereskeyser.files.wordpress.com/2017/09/notepad.png" alt="notepad" width="256" height="256" /> 
 
@@ -63,7 +61,7 @@ I recommend Notepad for computer-dependent people who need simple notes like dai
 
 <img class="alignnone size-full wp-image-161" src="https://whereskeyser.files.wordpress.com/2017/09/onenote-amazon-app-store-100361701-large.jpg" alt="onenote-amazon-app-store-100361701-large" width="580" height="388" /> 
 
-2. OneNote
+2. ##### OneNote
 
 OneNote is part of the Office 365 suite. It comes in windows computers as well. OneNote&#8217;s main advantages are its sync option and advanced features, besides the compatibility with other Office documents (off Word, Excel, etc.).
 
@@ -119,7 +117,7 @@ These are useful because:
 
 &nbsp;
 
--OPTIONS
+### OPTIONS
 
 <img class="alignnone size-full wp-image-166" src="https://whereskeyser.files.wordpress.com/2017/09/jjjjjfinal.png" alt="jjjjjfinal" width="475" height="587" /> 
 

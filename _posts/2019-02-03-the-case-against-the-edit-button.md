@@ -5,24 +5,9 @@ date: 2019-02-03T01:36:54+00:00
 author: whereskeyser
 excerpt: A take on the never-ending discussion, and the harms the edit button can bring.
 layout: post
-guid: http://whereskeyser.com/?p=215
 permalink: /the-case-against-the-edit-button/
-image: /wp-content/uploads/2019/02/thumb2-1142x706.png
-categories:
-  - All Articles
-  - Tech
-tags:
-  - design
-  - edit button
-  - news
-  - product design
-  - social
-  - social media
-  - tech
-  - twitter
-  - ui
-  - user experience
-  - ux
+thumbnail: /wp-content/uploads/2019/02/thumb2-1142x706.png
+tags: [blog, tech]
 ---
 Being on Twitter in 2019 means you have stumbled upon at least 10 people talking about the edit button, often in all-caps.
 

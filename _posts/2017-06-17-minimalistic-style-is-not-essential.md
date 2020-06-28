@@ -2,6 +2,7 @@
 layout: post
 author: keyser
 title: Minimalistic Style (Is Not Essential)
+thumbnail: /wp-content/uploads/2020/01/prateek-katyal-xv7-GlvBLFw-unsplash-1142x706.jpg
 tags: [blog,minimalism]
 ---
 

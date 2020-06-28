@@ -3,8 +3,12 @@ layout: default
 title: Blog
 ---
 
-<h2>Latest posts</h2>
-
+<h2>All Articles</h2>
+<ul>
     {% for post in site.posts %}
-    <h3> <a href = "{{post.url}}"> {{post.title}}</a></h3>
+    <a href = "{{post.url}}"><div class = "post">
+        <a href = "{{post.url}}" class = "thumbnails-link"><img src={{post.thumbnail}} class="thumbnails"></a>
+        <h3><a href = "{{post.url}}"> {{post.title}}</a></h3>
+    </div></a>
     {%endfor%}
+</ul>

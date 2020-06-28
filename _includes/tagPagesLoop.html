@@ -1,5 +1,10 @@
 <h2>#{{ include.tagName }}</h2>
 
-{% for post in site.tags[include.tagName] %}
-<h3>{{ post.title }}</h3>
-{% endfor %}
+<ul>
+    {% for post in site.tags[include.tagName] %}
+    <a href = "{{post.url}}"><div class = "post">
+        <a href = "{{post.url}}" class = "thumbnails-link"><img src={{post.thumbnail}} class="thumbnails"></a>
+        <h3><a href = "{{post.url}}"> {{post.title}}</a></h3>
+    </div></a>
+    {% endfor %}
+</ul>

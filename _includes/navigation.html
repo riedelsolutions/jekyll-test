@@ -1,5 +1,5 @@
+<h1 class="nav-title"><a href = "/index.html">keyser</a></h1>
 <nav>
-  <h1 class="nav-title">Root</h1>
     {% for item in site.data.navigation %}
       <a href="{{ item.link }}" {% if page.url == item.link %}class ="current"{% endif %}>
         {{ item.name }}

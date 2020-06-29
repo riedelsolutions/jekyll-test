@@ -9,12 +9,12 @@ body{
 h1 {
     margin-top: 0;
     font-size: 3.052em;
-    margin-left: 100px;
-  }
+}
   
-  h2 {
+h2 {
     font-size: 2.441em;
     margin-left: 40px;
+    text-align: center;
 }
   
   h3 {font-size: 1.953em;}
@@ -24,8 +24,9 @@ h1 {
 }
   
   h5 {
-    font-size: 1.25em;
-    margin-left: 40px;
+    margin-top: 0;
+    font-size: 3.052em;
+    text-align: center;
 }
   
 small, .text_small {font-size: 0.8em;}
@@ -57,6 +58,11 @@ a:active{
     color: darkgrey
 }
 
+p a{
+    color:#1ea678;
+    font-weight:bolder;
+}
+
 .btn-link{
     border-bottom: none !important;
 }
@@ -74,8 +80,12 @@ blockquote{
     border-left: 3px solid lightgray;
     padding-top: 5px;
     padding-bottom: 5px;
-    padding-left: 20px;
     font-style: italic;
+
+    max-width:1000px;
+    margin:0 auto;
+    width:auto;
+    display:table
 }
 
 nav{
@@ -208,6 +218,17 @@ nav a:hover{
     font-family: 'Manrope', sans-serif;
 }
 
+.centered-post p{
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+.share{
+    display: flex;
+    justify-content: center;
+}
+
 /*Footer*/
 .github{
 	position: relative;
@@ -239,10 +260,14 @@ footer{
         max-width: 130px;
     }
     
+    p{
+        max-width: 70%;
+    }
   }
 
   @media only screen and (max-width: 600px){
     .tag-container{
         justify-content: left;
     }
+
   }

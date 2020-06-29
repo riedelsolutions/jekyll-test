@@ -2,27 +2,11 @@
 id: 239
 title: Detached Demo | Out Now!
 date: 2019-02-07T04:44:54+00:00
-author: whereskeyser
+author: keyser
 layout: post
-guid: http://whereskeyser.com/?p=239
 permalink: /detached-demo-out-now/
-image: /wp-content/uploads/2019/02/detached-1000x706.png
-categories:
-  - All Articles
-tags:
-  - alternative
-  - alternative pop
-  - demo
-  - detached
-  - detached demo
-  - indie
-  - music
-  - musician
-  - piano
-  - pop
-  - rock
-  - singer
-  - singing
+thumbnail: /wp-content/uploads/2019/02/detached-1000x706.png
+tags: [blog, music]
 ---
 Hello!
 

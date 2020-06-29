@@ -2,22 +2,11 @@
 id: 60
 title: How to follow through with your New Years Resolutions
 date: 2018-04-22T17:41:23+00:00
-author: whereskeyser
+author: keyser
 layout: post
-guid: http://whereskeyser.com/?p=60
 permalink: /how-to-follow-through-with-your-new-years-resolutions/
-categories:
-  - All Articles
-  - Minimalism
-tags:
-  - "2018"
-  - "2019"
-  - lifestyle
-  - minimalism
-  - minimalist
-  - new year
-  - new years resolutions
-  - nye
+thumbnail: /wp-content/uploads/2018/04/plain-white-background-1.jpg
+tags: [blog, minimalism]
 ---
 <div class="reblog-title">
 </div>

@@ -1,20 +1,11 @@
 ---
-id: 58
 title: Is Everything Art?
-date: 2018-04-22T17:39:25+00:00
-author: whereskeyser
+date: 2017-11-29
+author: keyser
 layout: post
-guid: http://whereskeyser.com/?p=58
 permalink: /is-everything-art/
-categories:
-  - All Articles
-tags:
-  - art
-  - contemporary art
-  - essay
-  - illustration
-  - philosophy
-  - thinking
+thumbnail: /wp-content/uploads/2018/04/plain-white-background-1.jpg
+tags: [blog]
 ---
 Art is, according to the Oxford Dictionary, &#8216;the expression or application of human creative skill and imagination, typically in a visual form such as painting or sculpture, producing works to be appreciated primarily for their beauty or emotional power&#8217;. I think the concept of art is pointless. It does not have any use in any environment but academic. And even then, it mostly gets reduced to judging what is art, and what is not, what it looked like in different eras, and what remained predominant all througout. We never talk about art, we talk about what constitutes it. And before anybody makes the assumption that I hate it, it is actually quite the contrary. I am a musician, I write, I adore art museums, my whole lifestyle and personality revolves around the so-called arts. So let me explain.
 
@@ -47,5 +38,3 @@ Art is everything and nothing, if you put your energy towards proving it. Even t
 How meta.
 
 &nbsp;
-
-(_This was originally posted on November 29th, 2017_).

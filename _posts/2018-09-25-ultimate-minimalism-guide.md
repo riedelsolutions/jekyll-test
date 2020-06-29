@@ -1,31 +1,13 @@
 ---
-id: 189
 title: Ultimate Minimalism Guide
 date: 2018-09-25T16:31:02+00:00
-author: whereskeyser
+author: keyser
 layout: post
-guid: http://whereskeyser.com/?p=189
 permalink: /ultimate-minimalism-guide/
-categories:
-  - All Articles
-  - Minimalism
-tags:
-  - "2018"
-  - conscious spending
-  - frugal
-  - guide
-  - minimalism
-  - minimalism guide
-  - minimalist
-  - money
-  - practical
-  - practicity
-  - saving money
-  - spending
-  - style
-  - work
+thumbnail: /wp-content/uploads/2018/04/plain-white-background-1.jpg
+tags: [blog, minimalism]
 ---
-<h2 lang="es-AR">
+<h2 lang="en">
   1. Intro | What really is minimalism?
 </h2>
 

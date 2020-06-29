@@ -1,25 +1,11 @@
 ---
-id: 54
 title: Consumerism Is Dead
 date: 2018-04-22T17:36:06+00:00
-author: whereskeyser
+author: keyser
 layout: post
-guid: http://whereskeyser.com/?p=54
 permalink: /consumerism-is-dead/
-image: /wp-content/uploads/2018/04/consumerism.png
-categories:
-  - All Articles
-  - Minimalism
-tags:
-  - capitalism
-  - conscious spending
-  - consumerism
-  - consumerist
-  - economics
-  - minimalism
-  - savings
-  - society
-  - spending
+thumbnail: /wp-content/uploads/2018/04/consumerism.png
+tags: [blog, minimalism]
 ---
 _This was originally posted on November 19th, 2017._
 

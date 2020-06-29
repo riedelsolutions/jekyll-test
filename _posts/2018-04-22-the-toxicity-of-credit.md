@@ -1,27 +1,14 @@
 ---
-id: 65
 title: The Toxicity of Credit
 date: 2018-04-22T17:46:51+00:00
-author: whereskeyser
+author: keyser
 layout: post
-guid: http://whereskeyser.com/?p=65
 permalink: /the-toxicity-of-credit/
-image: /wp-content/uploads/2018/04/toxicity-of-credit-header.png
-categories:
-  - All Articles
-tags:
-  - banking
-  - banks
-  - credit
-  - debit
-  - debit cards
-  - debt
-  - dredit cards
-  - fintech
-  - loans
-  - savings
-  - traditional banks
+thumbnail: /wp-content/uploads/2018/04/toxicity-of-credit-header.png
+tags: [blog, fintech]
 ---
+
+<div class ="centered-post">
 Tackling the topic of credit is not simple. It is easy to come off as out of touch for suggesting credit is the wrong route to take, since a lot of individuals do in fact need it on emergencies and we cannot control the situations we are sometimes put in. However, it is a means to a many-times-unnecessary end. It is important to make the division between the concept of credit, necessary and &#8220;healthy&#8221; credit, and toxic credit. This article is for everybody, but it will focus on the unnecessary and/or careless use of it and its dangers in general.
 
 &nbsp;
@@ -69,3 +56,4 @@ Being careful and wary does not mean not enjoying yourself. The notion that to s
 To summarize, responsibility is key when it comes to credit. Banks know it is a good business because so many people overlook the downsides of loans, so by knowing them you are already a step above them. Decide your best course of action depending on your lifestyle: Is credit imperative in your life? Will you ever need an excellent credit score? Would you rather go debit-only? Ask yourself these questions. Only proceed once you have a plan of action. Credit has some toxicity behind it, but it is up to you to avoid it and use it to your advantage.
 
 _(This was originally posted on March 16th, 2018)._
+</div>

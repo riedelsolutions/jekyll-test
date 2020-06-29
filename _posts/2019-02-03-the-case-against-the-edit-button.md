@@ -2,7 +2,7 @@
 id: 215
 title: The Case Against The Edit Button
 date: 2019-02-03T01:36:54+00:00
-author: whereskeyser
+author: keyser
 excerpt: A take on the never-ending discussion, and the harms the edit button can bring.
 layout: post
 permalink: /the-case-against-the-edit-button/

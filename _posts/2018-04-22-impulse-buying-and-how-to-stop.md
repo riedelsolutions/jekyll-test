@@ -2,24 +2,11 @@
 id: 62
 title: Impulse Buying (and how to stop)
 date: 2018-04-22T17:44:11+00:00
-author: whereskeyser
+author: keyser
 layout: post
-guid: http://whereskeyser.com/?p=62
 permalink: /impulse-buying-and-how-to-stop/
-image: /wp-content/uploads/2018/04/impulse-buying-header.png
-categories:
-  - All Articles
-  - Minimalism
-tags:
-  - budget
-  - budgeting
-  - consumerism
-  - impulse buying
-  - minimalism
-  - minimalist
-  - saving money
-  - savings
-  - spending
+thumbnail: /wp-content/uploads/2018/04/impulse-buying-header.png
+tags: [blog, fintech, minimalism]
 ---
 <p style="margin: 0; margin-bottom: .0001pt;">
   <span style="font-size: 11pt; font-family: 'Calibri', sans-serif;">Whether you have a shopping addiction, are into minimalism or are just curious about the topic, we are all guilty of impulse buying. Present tense. We all do it from time to time, at varying degrees- some buy their favourite candy after seeing it at the store, others max out their credit cards buying shoes. But how do people fight that urge?</span>

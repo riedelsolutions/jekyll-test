@@ -2,6 +2,7 @@
 layout: post
 author: keyser
 title: 'Taking Minimalism Too Far: Guilt and Punishment'
+thumbnail: /wp-content/uploads/2018/04/plain-white-background-1.jpg
 tags: [blog,minimalism]
 ---
 

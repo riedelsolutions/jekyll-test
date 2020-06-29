@@ -1,11 +1,11 @@
 ---
 title: Are App-Based Banks The Future?
-date: 2018-04-22T17:49:55+00:00
+date: 2018-03-21
 author: keyser
 layout: post
 permalink: /are-app-based-banks-the-future/
 thumbnail: /wp-content/uploads/2018/04/abb-post-header.png
-tags: [music, design, tech, fintech, blog, minimalism]
+tags: [design, tech, fintech, blog]
 ---
 One of the latest advances in the world of Fintech is the creation of app-based banks. Everybody has heard of at least one of them- They got featured in dozens of articles this past year, ads for them are starting to be more and more common, and/or we all have that one friend who likes to keep up with new concepts (or we ourselves are that friend). Yet app-based banks are not being held at the same level as traditional banks.
 

@@ -1,13 +1,12 @@
 ---
 id: 98
 title: New Beginnings
-date: 2018-04-26T03:42:52+00:00
-author: whereskeyser
+date: 2017-01-01
+author: keyser
 layout: post
-guid: http://whereskeyser.com/?p=98
 permalink: /new-beginnings/
-categories:
-  - All Articles
+thumbnail: /wp-content/uploads/2018/04/plain-white-background-1.jpg
+tags: [blog]
 ---
 Hi, whoever finds this!
 

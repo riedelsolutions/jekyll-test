@@ -1,29 +1,11 @@
 ---
-id: 102
 title: Minimalism After Declutter
 date: 2018-05-06T01:33:39+00:00
 author: whereskeyser
 layout: post
-guid: http://whereskeyser.com/?p=102
 permalink: /minimalism-after-declutter/
-categories:
-  - All Articles
-  - Minimalism
-tags:
-  - bullet journal
-  - conscious living
-  - conscious spending
-  - declutter
-  - decluttering
-  - journaling
-  - lifestyle
-  - mental health
-  - minimal
-  - minimalist
-  - minismalism
-  - organizing
-  - planning
-  - saving
+thumbnail: /wp-content/uploads/2018/04/plain-white-background-1.jpg
+tags: [blog, minimalism]
 ---
 Most people discover minimalism after they realize they own too much. The first thing they hear about it is decluttering, so they get excited and start looking for ways to do it.
 

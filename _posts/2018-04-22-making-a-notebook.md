@@ -1,17 +1,12 @@
 ---
-id: 44
 title: Making a notebook
-date: 2018-04-22T17:28:25+00:00
+date: 2017-08-28
 author: whereskeyser
 layout: post
-guid: http://whereskeyser.com/?p=44
 permalink: /making-a-notebook/
-image: /wp-content/uploads/2018/04/whereskeyser_567596422.jpeg
-categories:
-  - All Articles
-  - Minimalism
+thumbnail: /wp-content/uploads/2018/04/whereskeyser_567596422.jpeg
+tags: [blog]
 ---
-_This was originally posted on August 28th, 2017._
 
 This post is a tiny bit different but I felt like sharing what my 5am self gets up to!
 

@@ -3,13 +3,12 @@ layout: default
 ---
 <script src = "/app.js"></script>
 <div class ="centered-post">
-<h5>{{page.title}}</h5>
+<h5>{{page.title}}<button onclick="CopyLink()" class = "copyclip"><img src ="/images/nounlink.png" style = "max-height: 40px"></button></h5>
 <p class = 'author-timestamp'>{{page.date | date_to_string}} - {{page.author}}</p>
 
 {{ content }}
 <div class = "share">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large" data-via="whereskeyser" data-related="whereskeyser" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
-    <button onclick="CopyLink()">Copy link to clipboard</button>
 </div>
 
 

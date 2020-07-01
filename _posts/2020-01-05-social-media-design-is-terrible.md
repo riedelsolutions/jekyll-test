@@ -31,28 +31,28 @@ Then there are strange decisions. Why can I only choose a single picture when I 
     
     <a href="https://twitter.com/whereskeyser/status/1212580688689553409?ref_src=twsrc%5Etfw">January 2, 2020</a>
   </blockquote>
-</div></figure> 
+</div>
 
 I could go on and trash the 2019 redesign of the web UI, but I feel [this twitter query covers it](%5B%3Chttps://twitter.com/search?q=twitter+interface%3E%5D(%3Chttps://twitter.com/search?q=twitter+interface%3E)).
 
 Trending topics. What used to be a simple, single activity tab is now&#8230; whatever this is:<figure class="wp-block-image size-large is-resized">
 
-<img src="https://whereskeyser.com/wp-content/uploads/2020/01/14-576x1024.jpg" alt="" class="wp-image-302" width="319" height="567" srcset="https://whereskeyser.com/wp-content/uploads/2020/01/14-576x1024.jpg 576w, https://whereskeyser.com/wp-content/uploads/2020/01/14-169x300.jpg 169w, https://whereskeyser.com/wp-content/uploads/2020/01/14.jpg 720w" sizes="(max-width: 319px) 100vw, 319px" /> </figure> 
-
+<div class = "center">
+<img src="https://whereskeyser.com/wp-content/uploads/2020/01/14-576x1024.jpg" alt="" class="wp-image-302" width="319" height="567" srcset="https://whereskeyser.com/wp-content/uploads/2020/01/14-576x1024.jpg 576w, https://whereskeyser.com/wp-content/uploads/2020/01/14-169x300.jpg 169w, https://whereskeyser.com/wp-content/uploads/2020/01/14.jpg 720w" sizes="(max-width: 319px) 100vw, 319px" />
+</div>
 First, trending isn&#8217;t even the initial tab. &#8220;For you&#8221;, catered content is put before what is actually going on in real time in the world, unfiltered. Which is, well&#8230; the core idea of twitter. 
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large"><img src="https://whereskeyser.com/wp-content/uploads/2020/01/13-1024x548.png" alt="" class="wp-image-303" srcset="https://whereskeyser.com/wp-content/uploads/2020/01/13-1024x548.png 1024w, https://whereskeyser.com/wp-content/uploads/2020/01/13-300x161.png 300w, https://whereskeyser.com/wp-content/uploads/2020/01/13-768x411.png 768w, https://whereskeyser.com/wp-content/uploads/2020/01/13-1536x822.png 1536w, https://whereskeyser.com/wp-content/uploads/2020/01/13-1070x573.png 1070w, https://whereskeyser.com/wp-content/uploads/2020/01/13.png 1918w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<div class = "center">
+  <img src="https://whereskeyser.com/wp-content/uploads/2020/01/13-1024x548.png" alt="" class="wp-image-303" srcset="https://whereskeyser.com/wp-content/uploads/2020/01/13-1024x548.png 1024w, https://whereskeyser.com/wp-content/uploads/2020/01/13-300x161.png 300w, https://whereskeyser.com/wp-content/uploads/2020/01/13-768x411.png 768w, https://whereskeyser.com/wp-content/uploads/2020/01/13-1536x822.png 1536w, https://whereskeyser.com/wp-content/uploads/2020/01/13-1070x573.png 1070w, https://whereskeyser.com/wp-content/uploads/2020/01/13.png 1918w" sizes="(max-width: 1024px) 100vw, 1024px" style = "max-width: 50%"/>
 </div>
 
 Not only that, &#8220;for you&#8221; isn&#8217;t even catered properly. Using myself as the example: I consume Twitter and all social media exclusively in English. Google understands this, and so it gives me news in English, results in English, everything in my language of preference, even knowing I speak other ones. Twitter, on the other hand, doesn&#8217;t seem to get this, even if I lie and claim to be monolingual: 
 
-<div class="wp-block-image">
-  <figure class="alignleft size-large is-resized"><img src="https://whereskeyser.com/wp-content/uploads/2020/01/12-576x1024.jpg" alt="" class="wp-image-304" width="249" height="442" srcset="https://whereskeyser.com/wp-content/uploads/2020/01/12-576x1024.jpg 576w, https://whereskeyser.com/wp-content/uploads/2020/01/12-169x300.jpg 169w, https://whereskeyser.com/wp-content/uploads/2020/01/12.jpg 720w" sizes="(max-width: 249px) 100vw, 249px" /> 
-</div><figure class="wp-block-image size-large is-resized">
+<div class = "center">
+<img src="https://whereskeyser.com/wp-content/uploads/2020/01/12-576x1024.jpg" alt="" class="wp-image-304" width="249" height="442" srcset="https://whereskeyser.com/wp-content/uploads/2020/01/12-576x1024.jpg 576w, https://whereskeyser.com/wp-content/uploads/2020/01/12-169x300.jpg 169w, https://whereskeyser.com/wp-content/uploads/2020/01/12.jpg 720w" sizes="(max-width: 249px) 100vw, 249px" /> 
 
-<img src="https://whereskeyser.com/wp-content/uploads/2020/01/11-576x1024.jpg" alt="" class="wp-image-305" width="246" height="437" srcset="https://whereskeyser.com/wp-content/uploads/2020/01/11-576x1024.jpg 576w, https://whereskeyser.com/wp-content/uploads/2020/01/11-169x300.jpg 169w, https://whereskeyser.com/wp-content/uploads/2020/01/11.jpg 720w" sizes="(max-width: 246px) 100vw, 246px" /> </figure> 
-
+<img src="https://whereskeyser.com/wp-content/uploads/2020/01/11-576x1024.jpg" alt="" class="wp-image-305" width="246" height="437" srcset="https://whereskeyser.com/wp-content/uploads/2020/01/11-576x1024.jpg 576w, https://whereskeyser.com/wp-content/uploads/2020/01/11-169x300.jpg 169w, https://whereskeyser.com/wp-content/uploads/2020/01/11.jpg 720w" sizes="(max-width: 246px) 100vw, 246px" />
+</div>
 
 
 

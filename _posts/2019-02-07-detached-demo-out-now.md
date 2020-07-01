@@ -10,7 +10,7 @@ tags: [blog, music]
 ---
 Hello!
 
-This is a quick update to let you all know I released a rough demo of some of my songs. You can find it on these platforms, as well as its meaning on [Genius](https://genius.com/albums/Keyser/Detached-demo):<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
+This is a quick update to let you all know I released a demo of some of my songs. You can find it on these platforms, as well as its meaning on [Genius](https://genius.com/albums/Keyser/Detached-demo):<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
 
 <div class="wp-block-embed__wrapper">
 </div></figure> <figure class="wp-block-embed-soundcloud wp-block-embed is-type-rich is-provider-soundcloud wp-embed-aspect-4-3 wp-has-aspect-ratio">

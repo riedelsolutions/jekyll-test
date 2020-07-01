@@ -17,7 +17,7 @@ The idea and petitions for an edit button have been around for a couple of years
 
 So, here is the case against the edit button:
 
-## **1. Showing edit history is useless**
+## 1. Showing edit history is useless
 
 A study showed that [59% of people share links without reading past the title](https://www.washingtonpost.com/news/the-intersect/wp/2016/06/16/six-in-10-of-you-will-share-this-link-without-reading-it-according-to-a-new-and-depressing-study/). That&#8217;s right &#8211; News and other articles are shared based on _titles only_.
 
@@ -27,7 +27,7 @@ When was the last time you checked the edit history on a Facebook post?* How oft
 
 *Most of the people reading likely don&#8217;t use Facebook anymore, but when you did, did you check?
 
-## **2. Keeping editing times within 5-30 seconds won&#8217;t prevent much**
+## 2. Keeping editing times within 5-30 seconds won&#8217;t prevent much
 
 This is the argument I see every time without fail when I read discussions regarding the edit button. It goes something like this (based on several conversations I&#8217;ve had):
 
@@ -57,21 +57,13 @@ This is flawed in several aspects. The first one being assuming the original twe
 
 In those 5 seconds, a big account gets interactions. They get a couple of RTs, likes. They spread that information. Twitter is all about real-time after all, as the team itself keeps mentioning. Some people RT, some people like = we now have a scenario where people accidentally endorsed a harmful idea, and a troll successfully injecting their attack onto your timeline.<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">
 
-<div class="wp-block-embed__wrapper">
-  <blockquote class="twitter-tweet" data-width="500" data-dnt="true">
-    <p lang="en" dir="ltr">
-      Twitter is live. Twitter is real-time. Twitter is about who & what you follow. And Twitter is here to stay! By becoming more Twitter-y.
-    </p>&mdash; jack (@jack) 
-    
-    <a href="https://twitter.com/jack/status/696081671293001728?ref_src=twsrc%5Etfw">February 6, 2016</a>
-  </blockquote>
-</div></figure> 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Twitter is live. Twitter is real-time. Twitter is about who &amp; what you follow. And Twitter is here to stay! By becoming more Twitter-y.</p> <p>&mdash;jack (@jack) <a href="https://twitter.com/jack/status/696081671293001728?ref_src=twsrc%5Etfw">February 6, 2016</a></p></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Another case is a big account getting hacked. They can do the exact same thing I just mentioned, without having earned the following themselves, and tricking say, an influencer&#8217;s followers into retweeting something fake or toxic.
 
 I&#8217;ll discuss Dorsey&#8217;s delay idea towards the end.
 
-## **3. The alternatives aren&#8217;t good, either**
+## 3. The alternatives aren&#8217;t good, either
 
 _&#8220;Ok, so short-time editing is not ideal, we got it. What then? We still need a solution.&#8221;_
 

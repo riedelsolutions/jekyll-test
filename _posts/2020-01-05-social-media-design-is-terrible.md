@@ -43,7 +43,7 @@ Trending topics. What used to be a simple, single activity tab is now&#8230; wha
 First, trending isn&#8217;t even the initial tab. &#8220;For you&#8221;, catered content is put before what is actually going on in real time in the world, unfiltered. Which is, well&#8230; the core idea of twitter. 
 
 <div class = "center">
-  <img src="https://whereskeyser.com/wp-content/uploads/2020/01/13-1024x548.png" alt="" class="wp-image-303" srcset="https://whereskeyser.com/wp-content/uploads/2020/01/13-1024x548.png 1024w, https://whereskeyser.com/wp-content/uploads/2020/01/13-300x161.png 300w, https://whereskeyser.com/wp-content/uploads/2020/01/13-768x411.png 768w, https://whereskeyser.com/wp-content/uploads/2020/01/13-1536x822.png 1536w, https://whereskeyser.com/wp-content/uploads/2020/01/13-1070x573.png 1070w, https://whereskeyser.com/wp-content/uploads/2020/01/13.png 1918w" sizes="(max-width: 1024px) 100vw, 1024px" style = "max-width: 50%"/>
+  <img src="https://whereskeyser.com/wp-content/uploads/2020/01/13-1024x548.png" alt="" class="wp-image-303" srcset="https://whereskeyser.com/wp-content/uploads/2020/01/13-1024x548.png 1024w, https://whereskeyser.com/wp-content/uploads/2020/01/13-300x161.png 300w, https://whereskeyser.com/wp-content/uploads/2020/01/13-768x411.png 768w, https://whereskeyser.com/wp-content/uploads/2020/01/13-1536x822.png 1536w, https://whereskeyser.com/wp-content/uploads/2020/01/13-1070x573.png 1070w, https://whereskeyser.com/wp-content/uploads/2020/01/13.png 1918w" sizes="(max-width: 1024px) 100vw, 1024px" style = "max-width: 800px"/>
 </div>
 
 Not only that, &#8220;for you&#8221; isn&#8217;t even catered properly. Using myself as the example: I consume Twitter and all social media exclusively in English. Google understands this, and so it gives me news in English, results in English, everything in my language of preference, even knowing I speak other ones. Twitter, on the other hand, doesn&#8217;t seem to get this, even if I lie and claim to be monolingual: 
@@ -59,10 +59,11 @@ Not only that, &#8220;for you&#8221; isn&#8217;t even catered properly. Using my
 
 How is this appealing to me in the slightest? Not only is it in a language I have no interest consuming social media content in, it&#8217;s not current, it&#8217;s not urgent, it&#8217;s not news (Why do I care they showed a Disney movie, a topic I never tweeted about, on tv in a specific country I do not live in?).
 
-I could go on about trending all day, but let&#8217;s finish with this one: Trending Topics used to be mainly neutral and uncatered, however they managed to focus on what was actually going on at a glance once you tapped on it. And now:<figure class="wp-block-image size-large is-resized">
+I could go on about trending all day, but let&#8217;s finish with this one: Trending Topics used to be mainly neutral and uncatered, however they managed to focus on what was actually going on at a glance once you tapped on it. And now:
 
-<img src="https://whereskeyser.com/wp-content/uploads/2020/01/10-576x1024.jpg" alt="" class="wp-image-306" width="342" height="608" srcset="https://whereskeyser.com/wp-content/uploads/2020/01/10-576x1024.jpg 576w, https://whereskeyser.com/wp-content/uploads/2020/01/10-169x300.jpg 169w, https://whereskeyser.com/wp-content/uploads/2020/01/10.jpg 720w" sizes="(max-width: 342px) 100vw, 342px" /> </figure> 
-
+<div class = "center">
+<img src="https://whereskeyser.com/wp-content/uploads/2020/01/10-576x1024.jpg" alt="" class="wp-image-306" width="342" height="608" srcset="https://whereskeyser.com/wp-content/uploads/2020/01/10-576x1024.jpg 576w, https://whereskeyser.com/wp-content/uploads/2020/01/10-169x300.jpg 169w, https://whereskeyser.com/wp-content/uploads/2020/01/10.jpg 720w" sizes="(max-width: 342px) 100vw, 342px" />
+</div>
 I&#8217;m pretty sure random people posting their faces on Instagram and twitter is not the reason there are currently 154k+ tweets about Instagram right now. This is a perfect example you can check whenever your service of choice goes down. I can&#8217;t tell how many times I saw Whatsapp or Discord trending, knew it was because they were down, yet clicking on them gave me tweets of people talking about something completely irrelevant to it. I&#8217;d say fix it, Twitter, but you had it! So bring it back.
 
 Honorable mentions: Stop breaking threads, replies do not need reddit-esque nesting and it doesn&#8217;t work, improve DMs, let us follow topics _within_ our timelines and create channels to separate content.
@@ -87,9 +88,10 @@ Then you have some just plain baffling things such as these:<figure class="wp-bl
 
 In case you can&#8217;t see the (legitimately irl) blurry text, it reads &#8220;This is how your playlist looks in English (United Kingdom). Switch to English to make changes.&#8221; You can&#8217;t make this up.
 
-More on playlists, this is what one looks like nowadays:<figure class="wp-block-image size-large">
-
-<img src="https://whereskeyser.com/wp-content/uploads/2020/01/9-1024x539.png" alt="" class="wp-image-307" srcset="https://whereskeyser.com/wp-content/uploads/2020/01/9-1024x539.png 1024w, https://whereskeyser.com/wp-content/uploads/2020/01/9-300x158.png 300w, https://whereskeyser.com/wp-content/uploads/2020/01/9-768x404.png 768w, https://whereskeyser.com/wp-content/uploads/2020/01/9-1536x809.png 1536w, https://whereskeyser.com/wp-content/uploads/2020/01/9-1070x563.png 1070w, https://whereskeyser.com/wp-content/uploads/2020/01/9.png 1605w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure> 
+More on playlists, this is what one looks like nowadays:
+<div class = "center">
+<img src="https://whereskeyser.com/wp-content/uploads/2020/01/9-1024x539.png" alt="" class="wp-image-307" srcset="https://whereskeyser.com/wp-content/uploads/2020/01/9-1024x539.png 1024w, https://whereskeyser.com/wp-content/uploads/2020/01/9-300x158.png 300w, https://whereskeyser.com/wp-content/uploads/2020/01/9-768x404.png 768w, https://whereskeyser.com/wp-content/uploads/2020/01/9-1536x809.png 1536w, https://whereskeyser.com/wp-content/uploads/2020/01/9-1070x563.png 1070w, https://whereskeyser.com/wp-content/uploads/2020/01/9.png 1605w" sizes="(max-width: 1024px) 100vw, 1024px" />
+</div>
 
 At first glance, I find the interface very effective, drag to edit the order, click to rename, add a description. And then for each video, this mess: <figure class="wp-block-image size-large">
 

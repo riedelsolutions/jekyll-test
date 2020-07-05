@@ -239,6 +239,10 @@ nav a:hover{
     display: flex;
     justify-content: center;
     align-items: center;
+
+    img{
+        max-width: 800px !important;
+    }
 }
 
 .copyclip{
@@ -268,16 +272,18 @@ nav a:hover{
 	position: relative;
 	bottom: 4px;
 	margin-right: 4px;
-	max-width: 28px;
+    max-width: 28px;
 }
 
 .gmail{
-	max-width: 3%;
-	margin-right: 3px;
+    position: relative;
+    bottom: 3px;
+    margin-right: 4px;
 }
 
-.telegram{
-	max-width: 3%;
+.twitter{
+    position: relative;
+    bottom: 3px;
 }
 
 footer{
@@ -302,6 +308,12 @@ footer{
     .about-title{
         margin-left: 20px;
     }
+
+   /* .center{
+        img{
+            max-width: 50%;
+        }
+    }*/
   }
 
   @media only screen and (max-width: 600px){

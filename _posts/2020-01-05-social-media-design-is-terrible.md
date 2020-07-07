@@ -74,7 +74,7 @@ Ah Youtube, where to start. Credit where credit&#8217;s due—given the size of 
 
 Skipping over its ad problem, infamously godawful, useless trending tab, the recommended section seems to be getting more and more generic. The wonderful algorithm that once took into account people&#8217;s input and opinions to suggest more content seems to focus more on talk show hosts, celebrity channels, and commentary videos.
 
-Then you have some just plain baffling things such as these:<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">
+Then you have some just plain baffling things such as these:
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="twitter-tweet" data-width="500" data-dnt="true">
@@ -84,7 +84,7 @@ Then you have some just plain baffling things such as these:<figure class="wp-bl
     
     <a href="https://twitter.com/whereskeyser/status/1088923828586274818?ref_src=twsrc%5Etfw">January 25, 2019</a>
   </blockquote>
-</div></figure> 
+</div>
 
 In case you can&#8217;t see the (legitimately irl) blurry text, it reads &#8220;This is how your playlist looks in English (United Kingdom). Switch to English to make changes.&#8221; You can&#8217;t make this up.
 
@@ -93,9 +93,11 @@ More on playlists, this is what one looks like nowadays:
 <img src="https://whereskeyser.com/wp-content/uploads/2020/01/9-1024x539.png" alt="" class="wp-image-307" srcset="https://whereskeyser.com/wp-content/uploads/2020/01/9-1024x539.png 1024w, https://whereskeyser.com/wp-content/uploads/2020/01/9-300x158.png 300w, https://whereskeyser.com/wp-content/uploads/2020/01/9-768x404.png 768w, https://whereskeyser.com/wp-content/uploads/2020/01/9-1536x809.png 1536w, https://whereskeyser.com/wp-content/uploads/2020/01/9-1070x563.png 1070w, https://whereskeyser.com/wp-content/uploads/2020/01/9.png 1605w" sizes="(max-width: 1024px) 100vw, 1024px" />
 </div>
 
-At first glance, I find the interface very effective, drag to edit the order, click to rename, add a description. And then for each video, this mess: <figure class="wp-block-image size-large">
+At first glance, I find the interface very effective, drag to edit the order, click to rename, add a description. And then for each video, this mess:
 
-<img src="https://whereskeyser.com/wp-content/uploads/2020/01/8.png" alt="" class="wp-image-308" srcset="https://whereskeyser.com/wp-content/uploads/2020/01/8.png 370w, https://whereskeyser.com/wp-content/uploads/2020/01/8-297x300.png 297w" sizes="(max-width: 370px) 100vw, 370px" /> </figure> 
+<div class = "center">
+<img src="https://whereskeyser.com/wp-content/uploads/2020/01/8.png" alt="" class="wp-image-308" srcset="https://whereskeyser.com/wp-content/uploads/2020/01/8.png 370w, https://whereskeyser.com/wp-content/uploads/2020/01/8-297x300.png 297w" sizes="(max-width: 370px) 100vw, 370px" />
+</div>
 
 This is a peak example of how bloated platforms are today, in every nook and cranny.
 
@@ -103,13 +105,15 @@ The queue feature is Watch Later redesigned. Why not just rebrand the original a
 
 If you can drag to rearrange the order of things, are &#8220;move to top&#8221; and &#8220;move to bottom&#8221; necessary buttons?
 
-Lastly, if you change the playlist name, it doesnt update on this menu:<figure class="wp-block-image size-large is-resized">
+Lastly, if you change the playlist name, it doesnt update on this menu:
 
-<img src="https://whereskeyser.com/wp-content/uploads/2020/01/7-1024x320.png" alt="" class="wp-image-309" width="568" height="177" srcset="https://whereskeyser.com/wp-content/uploads/2020/01/7-1024x320.png 1024w, https://whereskeyser.com/wp-content/uploads/2020/01/7-300x94.png 300w, https://whereskeyser.com/wp-content/uploads/2020/01/7-768x240.png 768w, https://whereskeyser.com/wp-content/uploads/2020/01/7-1536x481.png 1536w, https://whereskeyser.com/wp-content/uploads/2020/01/7-1070x335.png 1070w, https://whereskeyser.com/wp-content/uploads/2020/01/7.png 1579w" sizes="(max-width: 568px) 100vw, 568px" /> </figure> 
+<div class = "center">
+<img src="https://whereskeyser.com/wp-content/uploads/2020/01/7-1024x320.png" alt="" class="wp-image-309" width="568" height="177" srcset="https://whereskeyser.com/wp-content/uploads/2020/01/7-1024x320.png 1024w, https://whereskeyser.com/wp-content/uploads/2020/01/7-300x94.png 300w, https://whereskeyser.com/wp-content/uploads/2020/01/7-768x240.png 768w, https://whereskeyser.com/wp-content/uploads/2020/01/7-1536x481.png 1536w, https://whereskeyser.com/wp-content/uploads/2020/01/7-1070x335.png 1070w, https://whereskeyser.com/wp-content/uploads/2020/01/7.png 1579w" sizes="(max-width: 568px) 100vw, 568px" />
+</div>
 
 This is all an example of Youtube&#8217;s (and present applications nowadays&#8217;) real problem: on the surface it looks polished, but the actual user experience is clunky and bloated for no reason.
 
-So as not to bore you with an article longer than this is already shaping up to be, I&#8217;m going to quote two more tweets to summarize another example:<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">
+So as not to bore you with an article longer than this is already shaping up to be, I&#8217;m going to quote two more tweets to summarize another example:
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="twitter-tweet" data-width="500" data-dnt="true">
@@ -119,7 +123,7 @@ So as not to bore you with an article longer than this is already shaping up to 
     
     <a href="https://twitter.com/whereskeyser/status/1088553553126400001?ref_src=twsrc%5Etfw">January 24, 2019</a>
   </blockquote>
-</div></figure> <figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">
+</div>
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="twitter-tweet" data-width="500" data-dnt="true">
@@ -129,11 +133,11 @@ So as not to bore you with an article longer than this is already shaping up to 
     
     <a href="https://twitter.com/whereskeyser/status/1088553758072680448?ref_src=twsrc%5Etfw">January 24, 2019</a>
   </blockquote>
-</div></figure> 
+</div>
 
 Analytics tools seem to be convoluted and unintuitive everywhere, but Youtube excels at making it more difficult for the user to interact with and visualize the data.
 
-#### Instagram — Could be worse? 
+## Instagram — Could be worse? 
 
 Surprisingly enough, Instagram is the least offending interface out of all listed. Granted, there are things to be fixed: the explore page takes way too much fine-tuning to provide anything mildly related to users&#8217; interests, the timeline isn&#8217;t cronological, ads seem to be highly innacurate for a high number of users, and the obvious added package of &#8220;facebook bad&#8221; —the data collection is insane and unethical.
 
@@ -141,35 +145,50 @@ IGTV seems to be the most flawed feature—just try to pause a video or check co
 
 I was going to take my chance and rip facebook&#8217;s bloated UI bit by bit here too, but a company with such little respect for users does not deserve the time or the place, nor the recommendations for improvements.
 
-#### Discord — The leviathan of user experience 
+## Discord — The leviathan of user experience 
 
 Yes, the heading is dramatic. So is Discord&#8217;s over-the-top, unrelatable UX Copy. Their aim is to target the gaming community, however no one, even within the community, seems to think it&#8217;s effective. As part of discord&#8217;s demographic, I hear nothing but complaints from my friends and acquaintances when they open the app and see &#8220;abnormalizing some of the matrices&#8221;, when they update the app and see an update log talking to them like a dad trying to cram relatable references to their angsty teenage kid, or whenever they try to deal with its confusing interface.
 
-The default size and spacing for fonts is unreadable for long periods of time even for someone with 20/20 vision:<figure class="wp-block-image size-large">
+The default size and spacing for fonts is unreadable for long periods of time even for someone with 20/20 vision:
 
-<img src="https://whereskeyser.com/wp-content/uploads/2020/01/6.png" alt="" class="wp-image-310" srcset="https://whereskeyser.com/wp-content/uploads/2020/01/6.png 962w, https://whereskeyser.com/wp-content/uploads/2020/01/6-300x82.png 300w, https://whereskeyser.com/wp-content/uploads/2020/01/6-768x211.png 768w" sizes="(max-width: 962px) 100vw, 962px" /> </figure> 
+<div class = "center">
+<img src="https://whereskeyser.com/wp-content/uploads/2020/01/6.png" alt="" class="wp-image-310" srcset="https://whereskeyser.com/wp-content/uploads/2020/01/6.png 962w, https://whereskeyser.com/wp-content/uploads/2020/01/6-300x82.png 300w, https://whereskeyser.com/wp-content/uploads/2020/01/6-768x211.png 768w" sizes="(max-width: 962px) 100vw, 962px" />
+</div>
 
-And don&#8217;t get me started in the roles&#8217; colours&#8217; contrast: <figure class="wp-block-image size-large">
+And don&#8217;t get me started in the roles&#8217; colours&#8217; contrast:
 
-<img src="https://whereskeyser.com/wp-content/uploads/2020/01/5.png" alt="" class="wp-image-311" srcset="https://whereskeyser.com/wp-content/uploads/2020/01/5.png 318w, https://whereskeyser.com/wp-content/uploads/2020/01/5-300x128.png 300w" sizes="(max-width: 318px) 100vw, 318px" /> </figure> 
+<div class = "center">
+<img src="https://whereskeyser.com/wp-content/uploads/2020/01/5.png" alt="" class="wp-image-311" srcset="https://whereskeyser.com/wp-content/uploads/2020/01/5.png 318w, https://whereskeyser.com/wp-content/uploads/2020/01/5-300x128.png 300w" sizes="(max-width: 318px) 100vw, 318px" />
+</div>
 
-Finally, the truly big issue with discord—the menus are the most unintuitive interface I&#8217;ve come across in years.<figure class="wp-block-image size-large">
+Finally, the truly big issue with discord—the menus are the most unintuitive interface I&#8217;ve come across in years.
 
-<img src="https://whereskeyser.com/wp-content/uploads/2020/01/4-1024x554.png" alt="" class="wp-image-312" srcset="https://whereskeyser.com/wp-content/uploads/2020/01/4-1024x554.png 1024w, https://whereskeyser.com/wp-content/uploads/2020/01/4-300x162.png 300w, https://whereskeyser.com/wp-content/uploads/2020/01/4-768x416.png 768w, https://whereskeyser.com/wp-content/uploads/2020/01/4-1536x832.png 1536w, https://whereskeyser.com/wp-content/uploads/2020/01/4-1070x579.png 1070w, https://whereskeyser.com/wp-content/uploads/2020/01/4.png 1919w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure> 
+<div class = "center">
+<img src="https://whereskeyser.com/wp-content/uploads/2020/01/4-1024x554.png" alt="" class="wp-image-312" srcset="https://whereskeyser.com/wp-content/uploads/2020/01/4-1024x554.png 1024w, https://whereskeyser.com/wp-content/uploads/2020/01/4-300x162.png 300w, https://whereskeyser.com/wp-content/uploads/2020/01/4-768x416.png 768w, https://whereskeyser.com/wp-content/uploads/2020/01/4-1536x832.png 1536w, https://whereskeyser.com/wp-content/uploads/2020/01/4-1070x579.png 1070w, https://whereskeyser.com/wp-content/uploads/2020/01/4.png 1919w" sizes="(max-width: 1024px) 100vw, 1024px" />
+</div>
+
 
 If you don&#8217;t use Discord, where would you go to create a role? Update your status? Turn notifications off for a server vs your general notifications?
 
-And here, where would you go to enable Discord&#8217;s overlay in a game? &#8220;Overlay&#8221;, most likely, and yet&#8230;<figure class="wp-block-image size-large">
+And here, where would you go to enable Discord&#8217;s overlay in a game? &#8220;Overlay&#8221;, most likely, and yet&#8230;
 
-<img src="https://whereskeyser.com/wp-content/uploads/2020/01/3.png" alt="" class="wp-image-313" srcset="https://whereskeyser.com/wp-content/uploads/2020/01/3.png 277w, https://whereskeyser.com/wp-content/uploads/2020/01/3-84x300.png 84w" sizes="(max-width: 277px) 100vw, 277px" /> </figure> 
+<div class = "center">
+<img src="https://whereskeyser.com/wp-content/uploads/2020/01/3.png" alt="" class="wp-image-313" srcset="https://whereskeyser.com/wp-content/uploads/2020/01/3.png 277w, https://whereskeyser.com/wp-content/uploads/2020/01/3-84x300.png 84w" sizes="(max-width: 277px) 100vw, 277px" />
+</div>
 
-Nope: <figure class="wp-block-image size-large">
+Nope:
 
-<img src="https://whereskeyser.com/wp-content/uploads/2020/01/2-1024x547.png" alt="" class="wp-image-314" srcset="https://whereskeyser.com/wp-content/uploads/2020/01/2-1024x547.png 1024w, https://whereskeyser.com/wp-content/uploads/2020/01/2-300x160.png 300w, https://whereskeyser.com/wp-content/uploads/2020/01/2-768x410.png 768w, https://whereskeyser.com/wp-content/uploads/2020/01/2-1536x820.png 1536w, https://whereskeyser.com/wp-content/uploads/2020/01/2-1070x572.png 1070w, https://whereskeyser.com/wp-content/uploads/2020/01/2.png 1919w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure> 
+<div class = "center">
+<img src="https://whereskeyser.com/wp-content/uploads/2020/01/2-1024x547.png" alt="" class="wp-image-314" srcset="https://whereskeyser.com/wp-content/uploads/2020/01/2-1024x547.png 1024w, https://whereskeyser.com/wp-content/uploads/2020/01/2-300x160.png 300w, https://whereskeyser.com/wp-content/uploads/2020/01/2-768x410.png 768w, https://whereskeyser.com/wp-content/uploads/2020/01/2-1536x820.png 1536w, https://whereskeyser.com/wp-content/uploads/2020/01/2-1070x572.png 1070w, https://whereskeyser.com/wp-content/uploads/2020/01/2.png 1919w" sizes="(max-width: 1024px) 100vw, 1024px" />
+</div>
 
-It&#8217;s actually in Game Activity, for some reason:<figure class="wp-block-image size-large">
+It&#8217;s actually in Game Activity, for some reason:
 
-<img src="https://whereskeyser.com/wp-content/uploads/2020/01/1-1024x547.png" alt="" class="wp-image-315" srcset="https://whereskeyser.com/wp-content/uploads/2020/01/1-1024x547.png 1024w, https://whereskeyser.com/wp-content/uploads/2020/01/1-300x160.png 300w, https://whereskeyser.com/wp-content/uploads/2020/01/1-768x411.png 768w, https://whereskeyser.com/wp-content/uploads/2020/01/1-1536x821.png 1536w, https://whereskeyser.com/wp-content/uploads/2020/01/1-1070x572.png 1070w, https://whereskeyser.com/wp-content/uploads/2020/01/1.png 1919w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure> 
+<div class = "center">
+
+<img src="https://whereskeyser.com/wp-content/uploads/2020/01/1-1024x547.png" alt="" class="wp-image-315" srcset="https://whereskeyser.com/wp-content/uploads/2020/01/1-1024x547.png 1024w, https://whereskeyser.com/wp-content/uploads/2020/01/1-300x160.png 300w, https://whereskeyser.com/wp-content/uploads/2020/01/1-768x411.png 768w, https://whereskeyser.com/wp-content/uploads/2020/01/1-1536x821.png 1536w, https://whereskeyser.com/wp-content/uploads/2020/01/1-1070x572.png 1070w, https://whereskeyser.com/wp-content/uploads/2020/01/1.png 1919w" sizes="(max-width: 1024px) 100vw, 1024px" />
+
+</div>
 
 Everything takes minutes to find as a new user. I have no problem learning new interfaces, so long as they have logic behind them.
 
@@ -179,7 +198,7 @@ Finally, its branding. Discord is aimed at gaming only still to this day, when i
 
 Let&#8217;s hope they wake up and take advantage of it before the new big name comes along.
 
-# In conclusion: MAKE IT SIMPLE please
+## In conclusion: MAKE IT SIMPLE please
 
 Ok, that heading might not be the most professional but, PLEASE! It&#8217;s not that complicated to give your design time to set and be tested. Listen to your users yelling in every social media possible and implement changes that actually matter to the user experience. We already have a billion alternatives for a billion features in the form of a billion apps, we just want an easier to use platform.
 

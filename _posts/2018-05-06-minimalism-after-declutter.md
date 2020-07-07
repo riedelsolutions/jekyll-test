@@ -13,7 +13,7 @@ Weeks or months go by and suddenly, they finish decluttering. It feels amazing, 
 
 This has happened to all of us, most likely, even if you know there is more to minimalism than object counts. This is because decluttering is the biggest physical change when you start down this road. It is by far the most instantly rewarding quality of it. Cutting off toxic people from your life, making healthy changes to your habits, and everything the lifestyle entails is awesome in the long run, but we need the excitement of short-term goals to keep us motivated.
 
-#### What is there to be done?
+## What is there to be done?
 
 The answer is not definitive, it depends on why you started making changes in the first place. If you were happy all the time and were stressed about clutter only, then congrats! Your path is short and you&#8217;ve reached your destiny. Just focus on [spending your money consciously](http://whereskeyser.com/impulse-buying-and-how-to-stop/) and not cluttering your spaces again.
 
@@ -21,7 +21,7 @@ If, however, you had other goals in mind, you need to create a plan of action. W
 
 &nbsp;
 
-#### The path to minimalism doesn&#8217;t go on forever
+## The path to minimalism doesn&#8217;t go on forever
 
 It&#8217;s always good to remind yourself there isn&#8217;t always something to do. You should take measures to improve your life, and maintain them. This always takes a bit of time, getting used to a new lifestyle. Yet it shouldn&#8217;t&nbsp;_become_ your life. Minimalism is a tool for improvement, it shouldn&#8217;t be a crutch. Many times, the need to do something comes from getting to a place where everything is solved.
 

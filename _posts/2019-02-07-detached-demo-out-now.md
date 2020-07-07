@@ -10,13 +10,16 @@ tags: [blog, music]
 ---
 Hello!
 
-This is a quick update to let you all know I released a demo of some of my songs. You can find it on these platforms, as well as its meaning on [Genius](https://genius.com/albums/Keyser/Detached-demo):<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
+This is a quick update to let you all know I released a demo of some of my songs. You can find it on these platforms, as well as its meaning on [Genius](https://genius.com/albums/Keyser/Detached-demo):
 
-<div class="wp-block-embed__wrapper">
-</div></figure> <figure class="wp-block-embed-soundcloud wp-block-embed is-type-rich is-provider-soundcloud wp-embed-aspect-4-3 wp-has-aspect-ratio">
+<div class = "center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QAqBinfrQCQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
-<div class="wp-block-embed__wrapper">
-</div></figure> 
+<br><br>
+<div class = "center">
+<iframe width="80%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/697135446&color=%233cb496&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"></div>
+</div>
 
 Hopefully I will soon be able to share the higher-quality version on all major streaming platforms. Thank you for taking the time to check it out!
 

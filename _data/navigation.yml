@@ -1,6 +1,6 @@
 - name: Home
   link: /
 - name: Portfolio
-  link: https://solutionsbyriedel.com
+  link: "https://solutionsbyriedel.com"
 - name: About
   link: /about.html

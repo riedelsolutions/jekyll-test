@@ -4,10 +4,44 @@
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="/assets/css/styles.css">
-    <!--<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@300;600;700;800&display=swap" rel="stylesheet">-->
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
     <link rel="shortcut icon" type="image/png" href="/images/favicon.ico">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-87147024-7"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-87147024-7');
+
+      <!-- Twitter cards -->
+
+      <meta property='twitter:title' content="{{ post.title }}"/>
+      <meta property='twitter:image' content="{{ post.thumbnail }} "/>
+      <meta name="twitter:card" content="summary_large_image"/> 
+      <meta name="twitter:site"    content="@whereskeyser">
+      <meta name="twitter:creator" content="@whereskeyser">
+      <meta name="twitter:title"   content="{{ post.title }}">
+
+      {% if post.summary %}
+      <meta name="twitter:description" content="{{ post.summary }}">
+      {% else %}
+      <meta name="twitter:description" content="{{ site.description }}">
+      {% endif %}
+
+      {% if post.thumbnail %}
+      <meta name="twitter:card"  content="summary_large_image">
+      <meta name="twitter:image" content="{{ site.url }}{{ post.thumbnail }}">
+      {% else %}
+      <meta name="twitter:card"  content="summary">
+      <meta name="twitter:image" content="{{ post.thumbnail}}">
+      {% endif %}
+      <!-- end of Twitter cards -->
+    </script>
+
   </head>
   <body>
       {% include navigation.html%}

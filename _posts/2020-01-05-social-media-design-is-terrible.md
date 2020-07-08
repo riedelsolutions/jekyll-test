@@ -21,9 +21,10 @@ The internet&#8217;s darling has almost every interaction either broken or made 
 
 Let&#8217;s start with the obvious: I haven&#8217;t seen a single person ask for a curated feed instead of cronological. And yet, Home/Latest Tweets is a thing. Not only that, no matter if you choose Latest Tweets, at some point or another you WILL be switched without warning to the curated Home.
 
-Then there are strange decisions. Why can I only choose a single picture when I go to tweet a couple? In a way, I get where they are coming from: You&#8217;d think a single picture would be enough. But why not give the user the choice of closing the window when they&#8217;re done? Automation is nice when it doesn&#8217;t get in the way. With most tweets now showcasing several images at once, this just seems more trouble than letting the user decide.<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">
+Then there are strange decisions. Why can I only choose a single picture when I go to tweet a couple? In a way, I get where they are coming from: You&#8217;d think a single picture would be enough. But why not give the user the choice of closing the window when they&#8217;re done? Automation is nice when it doesn&#8217;t get in the way. With most tweets now showcasing several images at once, this just seems more trouble than letting the user decide.
 
-<div class="wp-block-embed__wrapper">
+
+<div class ="center">
   <blockquote class="twitter-tweet" data-width="500" data-dnt="true">
     <p lang="en" dir="ltr">
       Imma pick up on my old bad ux thread:<br />Why can I only pick one image at first. Why. <a href="https://t.co/B6e2fU0PXS">pic.twitter.com/B6e2fU0PXS</a>
@@ -76,7 +77,7 @@ Skipping over its ad problem, infamously godawful, useless trending tab, the rec
 
 Then you have some just plain baffling things such as these:
 
-<div class="wp-block-embed__wrapper">
+<div class="center">
   <blockquote class="twitter-tweet" data-width="500" data-dnt="true">
     <p lang="en" dir="ltr">
       This is gonna become a thread of shitty UX decisions I think (icing on the cake, the text is blurry irl too): <a href="https://t.co/8E6IIYfrrK">pic.twitter.com/8E6IIYfrrK</a>
@@ -115,7 +116,7 @@ This is all an example of Youtube&#8217;s (and present applications nowadays&#82
 
 So as not to bore you with an article longer than this is already shaping up to be, I&#8217;m going to quote two more tweets to summarize another example:
 
-<div class="wp-block-embed__wrapper">
+<div class="center">
   <blockquote class="twitter-tweet" data-width="500" data-dnt="true">
     <p lang="en" dir="ltr">
       Youtube's new Creator Studio's Analytics SUCK what does this tell me? Where would you find say, geography info? <a href="https://t.co/6iz8QllxSP">pic.twitter.com/6iz8QllxSP</a>
@@ -125,7 +126,7 @@ So as not to bore you with an article longer than this is already shaping up to 
   </blockquote>
 </div>
 
-<div class="wp-block-embed__wrapper">
+<div class="center">
   <blockquote class="twitter-tweet" data-width="500" data-dnt="true">
     <p lang="en" dir="ltr">
       For example I'd go to Reach Viewers, because reach->space->geography, but no, it's in Build An Audience. Why not be straightforward?

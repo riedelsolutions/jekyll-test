@@ -37,9 +37,9 @@ This is the argument I see every time without fail when I read discussions regar
   </p>
 </blockquote>
 
-A shorter, somewhat different version:<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">
+A shorter, somewhat different version:
 
-<div class="wp-block-embed__wrapper">
+<div class = "center">
   <blockquote class="twitter-tweet" data-width="500" data-dnt="true">
     <p lang="en" dir="ltr">
       You should be able to edit your tweets within the first X minutes since published, just to avoid homogeneity issues. <a href="https://twitter.com/jack?ref_src=twsrc%5Etfw">@jack</a> what do you think? <a href="https://t.co/PnusDOglCz">https://t.co/PnusDOglCz</a>
@@ -47,7 +47,7 @@ A shorter, somewhat different version:<figure class="wp-block-embed-twitter wp-b
     
     <a href="https://twitter.com/netmarketr/status/1091713548412166145?ref_src=twsrc%5Etfw">February 2, 2019</a>
   </blockquote>
-</div></figure> 
+</div>
 
 Jack Dorsey seemingly agrees with this one, as heard on the [Joe Rogan Podcast](https://youtu.be/_mP9OmOFxc4?t=4839); the team is considering a 5s to 30s window to edit them. He is not very clear on it since he seems to want to add a delay instead, which would be useless since you can have all the delay you wish by method of proofreading. He himself emphasizes that Twitter&#8217;s real-time quality is what makes it stand out as a platform.
 
@@ -55,9 +55,12 @@ The problem with a possible window **without** delay, which is what I have seen 
 
 This is flawed in several aspects. The first one being assuming the original tweeter has good intentions from the get-go, and they either change their minds or are hacked. This is not always the case. Someone with a big following can decide to either troll or legitimately want to spread misinformation, have the intended harmful information on their clipboard, tweet something unrelated and benign, then in less than 5 seconds click &#8216;edit&#8217; and paste the original.
 
-In those 5 seconds, a big account gets interactions. They get a couple of RTs, likes. They spread that information. Twitter is all about real-time after all, as the team itself keeps mentioning. Some people RT, some people like = we now have a scenario where people accidentally endorsed a harmful idea, and a troll successfully injecting their attack onto your timeline.<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">
+In those 5 seconds, a big account gets interactions. They get a couple of RTs, likes. They spread that information. Twitter is all about real-time after all, as the team itself keeps mentioning. Some people RT, some people like = we now have a scenario where people accidentally endorsed a harmful idea, and a troll successfully injecting their attack onto your timeline.
 
+
+<div class = "center">
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Twitter is live. Twitter is real-time. Twitter is about who &amp; what you follow. And Twitter is here to stay! By becoming more Twitter-y.</p> <p>&mdash;jack (@jack) <a href="https://twitter.com/jack/status/696081671293001728?ref_src=twsrc%5Etfw">February 6, 2016</a></p></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
 
 Another case is a big account getting hacked. They can do the exact same thing I just mentioned, without having earned the following themselves, and tricking say, an influencer&#8217;s followers into retweeting something fake or toxic.
 

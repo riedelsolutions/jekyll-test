@@ -6,6 +6,7 @@ author: whereskeyser
 layout: post
 permalink: /is-freelancing-the-future/
 thumbnail: /wp-content/uploads/2018/04/plain-white-background-1.jpg
+cardthumbnail: wp-content/uploads/2018/04/plain-white-background-1.jpg
 tags: [blog, tech, design]
 ---
 Growing up we had a pretty definitive view of what the outline of our life path would look like. Starting school, then high school, followed by university, getting a stable job, followed by retirement. However, this set path comes from decades and decades of a certain lifestyle that is not the current one anymore, and has not been for a while.

@@ -5,6 +5,7 @@ author: keyser
 layout: post
 permalink: /social-media-design-is-terrible/
 thumbnail: /wp-content/uploads/2020/01/prateek-katyal-xv7-GlvBLFw-unsplash-1142x706.jpg
+cardthumbnail: wp-content/uploads/2020/01/prateek-katyal-xv7-GlvBLFw-unsplash-1142x706.jpg
 tags: [blog, tech, design]
 ---
 _In which I rip interfaces to shreds._ 

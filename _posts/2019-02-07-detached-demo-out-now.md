@@ -6,6 +6,7 @@ author: keyser
 layout: post
 permalink: /detached-demo-out-now/
 thumbnail: /wp-content/uploads/2019/02/detached-1000x706.png
+cardthumbnail: wp-content/uploads/2019/02/detached-1000x706.png
 tags: [blog, music]
 ---
 Hello!

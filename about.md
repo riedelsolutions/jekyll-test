@@ -24,7 +24,7 @@ worthy of sharing. That's all!</p>
 <h1 class ="about-title">Where's all the Ḑ̵̱̏e̶̞̟̎s̷̟͒ï̵̟̜̐g̷̮̱̐n̵͙̺̽̕ ̸̟̀́F̴͙̄l̵͚̾a̵̅ͅi̸̝͉͒̌r̵̫͆  on this blog?</h1>
 
 <p style = "padding-left:40px; margin-left: 5px;">Complex design has its place &mdash; when you're trying to catch the eye of a new customer, in social platforms, and countless cases.
-On the other hand, there are some cases where we are **over-designing and over-engineering** the web for no reason &mdash; it distracts users from the main content and slows load times. Read more about over-design here.</p>
+On the other hand, there are some cases where we are <strong>over-designing and over-engineering</strong> the web for no reason &mdash; it distracts users from the main content and slows load times. Read more about over-design here.</p>
 
 <p style = "padding-left: 40px; margin-left: 5px;">In this use case, you, most likely, already clicked and read through the article(s) you desired, which then lead you here. The content was consumed without any distractions! And that is the sole purpose of this blog :)</p>
 

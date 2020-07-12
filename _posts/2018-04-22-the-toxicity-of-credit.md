@@ -5,6 +5,7 @@ author: keyser
 layout: post
 permalink: /the-toxicity-of-credit/
 thumbnail: /wp-content/uploads/2018/04/toxicity-of-credit-header.png
+cardthumbnail: wp-content/uploads/2018/04/toxicity-of-credit-header.png
 tags: [blog, fintech]
 ---
 

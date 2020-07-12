@@ -7,6 +7,7 @@ excerpt: A take on the never-ending discussion, and the harms the edit button ca
 layout: post
 permalink: /the-case-against-the-edit-button/
 thumbnail: /wp-content/uploads/2019/02/thumb2-1142x706.png
+cardthumbnail: wp-content/uploads/2019/02/thumb2-1142x706.png
 tags: [blog, tech]
 ---
 Being on Twitter in 2019 means you have stumbled upon at least 10 people talking about the edit button, often in all-caps.

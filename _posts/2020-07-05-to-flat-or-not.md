@@ -5,7 +5,9 @@ author: keyser
 layout: post
 permalink: /to-flat-or-not/
 thumbnail: /images/flatornot-thumbnail.png
+cardthumbnail: images/flatornot-thumbnail.png
 tags: [blog, tech, design]
+excerpt: "Does skeuomorphism need to come back? Is neuomorphism taking off? Does flat design suck and look boring?"
 ---
 
 In this week's Design Hell, also known as Design Twitter, the discussion sparked by Big Sur's design system remains rampant — does skeuomorphism need to come back? Is neuomorphism taking off? Does flat design suck and look boring? Did skeuomorphism run its course 7 years ago?

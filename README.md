@@ -1,6 +1,6 @@
 # Root
 
-Root is a modern, minimal, tag-based Jekyll blog theme that follows the lastest design trends. Coded for you to focus on your blog posts and content only.
+Root is a modern, minimal, tag-based Jekyll blog theme designed to be simple and not distract from the actual content of the site &mdash; your posts. Coded for you to focus on your blog posts and content only.
 
 
 ## Installation
@@ -27,11 +27,39 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here. Describe your available layouts, includes, sass and/or assets.
+### Tag System
+
+Simply put the tags you wish to have on the tag menu in the front matter of your posts, they will be automatically generated and not repeated.
+
+### Tag Pages
+
+For the tag pages/sections, do the following
+
+1. Create your html file, e.g. `example.html`
+
+2. Add the following front matter and expression:
+
+`
+---
+layout: default
+---
+
+{% include tagPagesLoop.html tagName='TAG_NAME_HERE' %}
+
+`
+
+### Styling
+
+Every style is under /assets/main.scss
+
+### Assets
+
+All images go under /images
+
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/hello. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/riedelsolutions/root. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
 ## Development
 

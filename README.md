@@ -39,14 +39,14 @@ For the tag pages/sections, do the following
 
 2. Add the following front matter and expression:
 
-`
+```
 ---
 layout: default
 ---
 
 {% include tagPagesLoop.html tagName='TAG_NAME_HERE' %}
 
-`
+```
 
 ### Styling
 
